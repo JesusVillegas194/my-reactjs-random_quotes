@@ -16,7 +16,7 @@ Go see the Random Machine in action [here](https://my-reactjs-random-quotes.verc
 
 ### Desktop View
 
-<img src="./public/screenshots/desktop-view.png" height="400/>
+<img src="./public/screenshots/desktop-view.png" height="400" />
 
 ### Mobile View
 
